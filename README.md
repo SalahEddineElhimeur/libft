@@ -10,7 +10,7 @@ This project has been archived in the state it was in at the time of evaluation.
 **Libft** is an essential project since this library will be used in future 42 School assignments. If you're a 42 student, I highly recommend you go through the process of writing your own code, testing it yourself, and troubleshooting issues. Don't just copy-paste code you don't fully understand. If you’ve completed your piscine, there is no reason why you couldn't solve this project yourself! Be patient, test thoroughly, and always strive for understanding.
 
 ## Status
-Finished: YYYY-MM-DD. Grade: 125/100.
+Finished: 2024-11-10. Grade: 125/100.
 
 ## Usage
 To compile the mandatory functions:
